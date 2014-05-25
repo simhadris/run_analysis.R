@@ -1,5 +1,4 @@
-##run_analysis.R
-==============
+### run_analysis.R
 
 Script run_analysis.R can help you get mean data for Mean and Std columns of Human Activity Recognition Using Smartphones Dataset. To use it you should place script next to dataset folder in the R working directory. Also you can set data_path atribute if folder name is not default.
 
